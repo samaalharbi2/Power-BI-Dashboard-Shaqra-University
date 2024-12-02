@@ -11,4 +11,4 @@ The dataset includes the following key details:
 - **🏫 Enrollment Details:** Number of students in each college.  
 - **🎓 Academic Programs:** Degree types, such as Bachelor's, Diploma, and Advanced Diploma.  
 ## 🖼️ Screenshot
-![Dashboard Screenshot]([assets/dashboard-screenshot.png](https://github.com/samaalharbi2/Power-BI-Dashboard-Shaqra-University/blob/main/ScreenShot.png))  
+![Dashboard Screenshot](https://github.com/samaalharbi2/Power-BI-Dashboard-Shaqra-University/blob/main/ScreenShot.png)
